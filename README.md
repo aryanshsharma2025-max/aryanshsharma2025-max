@@ -1,47 +1,45 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08080f,100:64ffda&height=220&section=header&text=Aryansh%20Sharma&fontSize=48&fontColor=e8e8f0&animation=twinkling&fontAlignY=38&desc=Computer%20Science%20Engineering%20Student&descAlignY=58&descColor=64ffda" width="100%"/>
+<img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/assets/banner.svg" width="100%" alt="Aryansh Sharma"/>
 
-<a href="https://github.com/aryanshsharma2025-max">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Learning+Data+Structures+%26+Algorithms;Building+with+C+%2F+C%2B%2B+%2F+Python;Author+of+Basic-AI-Chatbot" alt="Typing SVG" />
-</a>
-
-<br/>
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=aryanshsharma2025-max&label=Profile%20Views&color=64ffda&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/aryanshsharma2025-max?label=Followers&style=flat-square&color=64ffda" alt="GitHub followers" />
+<img src="https://img.shields.io/badge/HackerRank-3%20Star-64ffda?style=flat-square&logo=hackerrank&logoColor=black" alt="HackerRank 3 Star" />
 
 </div>
 
 <br/>
 
-## 🧠 Who I Am
+CS & Engineering student building small, working things instead of big, imagined ones — a keyword chatbot today, a DSA visualizer next, whatever teaches me the most on the way to graduation in 2029.
+
+<br/>
 
 ```typescript
 const aryansh = {
-  title: "Computer Science Engineering Student",
+  title: "Computer Science Engineering student",
+  based: "Raipur, Chhattisgarh, India",
   stack: {
     languages: ["C", "C++", "Python"],
     tools: ["Git", "GitHub", "VS Code"],
   },
   launchedProjects: [
-    "Basic-AI-Chatbot — keyword-based console chatbot in Python"
+    "Basic-AI-Chatbot — keyword-driven console chatbot in Python",
   ],
   certifications: [
-    "HackerRank — 3 Star (C & algorithmic problem solving)"
+    "HackerRank — 3 Star, C & algorithmic problem solving",
   ],
-  status: "Currently deepening skills in Data Structures & Algorithms",
-  openTo: "Collaborating on beginner-friendly Python & C++ projects"
+  currentlyLearning: "Data Structures & Algorithms",
+  openTo: "Internships · beginner-friendly collabs in Python & C++",
 };
 ```
 
 <br/>
 
-## 🚀 Featured Project
+## Featured project
 
-### 🤖 Basic-AI-Chatbot
-
-A beginner-friendly console chatbot built in Python that uses keyword and pattern matching to hold a simple conversation — greetings, small talk, and topic-based Q&A, all without any external NLP libraries.
+**Basic-AI-Chatbot** — a console chatbot in Python that holds a simple conversation using keyword and pattern matching, no external NLP libraries. Built to actually understand how rule-based dialogue systems work before reaching for a library that hides it.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanshsharma2025-max&repo=Basic-AI-Chatbot&theme=nord&border_color=64ffda&title_color=64ffda&text_color=e8e8f0&bg_color=0d1117" alt="Basic-AI-Chatbot repo card"/>
@@ -62,31 +60,17 @@ A beginner-friendly console chatbot built in Python that uses keyword and patter
 
 <br/>
 
-## 🛠️ Tech Stack
+## Stack
 
-**Languages**
+<img src="https://skillicons.dev/icons?i=c,cpp,py,git,github,vscode" />
 
-<img src="https://skillicons.dev/icons?i=c,cpp,py" />
+<br/><br/>
 
-**Dev Tools**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-
-<br/>
-
-## 📊 GitHub Stats
+## Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshsharma2025-max&show_icons=true&theme=nord&border_color=64ffda&title_color=64ffda&icon_color=64ffda&text_color=e8e8f0&bg_color=0d1117" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshsharma2025-max&layout=compact&theme=nord&border_color=64ffda&title_color=64ffda&text_color=e8e8f0&bg_color=0d1117" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanshsharma2025-max&theme=nord&border=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&background=0D1117" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aryanshsharma2025-max&theme=nord&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanshsharma2025-max&show_icons=true&theme=nord&border_color=64ffda&title_color=64ffda&icon_color=64ffda&text_color=e8e8f0&bg_color=0d1117&hide_border=false" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=aryanshsharma2025-max&theme=nord&border=64ffda&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&background=0D1117" alt="GitHub Streak" height="165"/>
 </div>
 
 <div align="center">
@@ -95,7 +79,7 @@ A beginner-friendly console chatbot built in Python that uses keyword and patter
 
 <br/>
 
-## 🔗 Connect
+## Connect
 
 <div align="center">
 
@@ -107,4 +91,6 @@ A beginner-friendly console chatbot built in Python that uses keyword and patter
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:08080f&height=120&section=footer" width="100%"/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:64ffda,100:08080f&height=100&section=footer" width="100%"/>
+</div>

@@ -11,13 +11,3 @@ Computer Science Engineering student in Raipur, India, building small working sy
 ### Stack
 
 `C` `C++` `Python` `Git` `GitHub` `VS Code`
-
-### Featured project
-
-**[Basic-AI-Chatbot](https://github.com/aryanshsharma2025-max/Basic-AI-Chatbot)** — a console chatbot in Python using keyword and pattern matching to hold a simple conversation, built without any external NLP library so the logic stays fully visible.
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=aryanshsharma2025-max&repo=Basic-AI-Chatbot&theme=default_repocard&hide_border=true" alt="Basic-AI-Chatbot" />
-
-### GitHub stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=aryanshsharma2025-max&show_icons=true&theme=default_repocard&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>

@@ -1,0 +1,56 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A0F0D"/>
+      <stop offset="100%" stop-color="#0D1512"/>
+    </linearGradient>
+    <linearGradient id="accentFade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#34D399"/>
+      <stop offset="100%" stop-color="#10B981" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .sans { font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+
+  <!-- faint hash grid texture, right side -->
+  <g opacity="0.10" fill="#34D399" class="mono" font-size="11">
+    <text x="860" y="30">4f 2a e9 1c 7b 03 d8 55 a1 f0 6e 92 3c b7 44</text>
+    <text x="860" y="52">1d 88 c2 5f a0 33 e7 9b 60 12 d4 af 8e 27 05</text>
+    <text x="860" y="74">e3 09 6a f1 5c 82 3d b0 47 ce 1a 99 5e 20 fb</text>
+    <text x="860" y="96">72 c6 0e 4b a8 15 df 39 6c 91 02 f7 5a 8d 23</text>
+    <text x="860" y="118">b1 4e 87 2f d0 63 1e a9 55 08 c4 3b 96 71 e0</text>
+    <text x="860" y="140">0f 5d 98 c3 22 7e a6 41 bc 10 59 e2 8a 33 d7</text>
+    <text x="860" y="162">6f 12 e8 4c a3 07 db 50 9a 26 f4 6d 81 1b c9</text>
+    <text x="860" y="184">37 9e 5b c0 42 8f 16 a5 6b d2 09 74 e1 3a 5c</text>
+    <text x="860" y="206">a4 6c 0d f8 51 be 29 93 07 4a d6 3e 88 12 f5</text>
+    <text x="860" y="228">18 a7 3f 92 d5 60 be 24 f1 09 7c 4d a0 36 e8</text>
+  </g>
+
+  <!-- vertical divider -->
+  <line x1="640" y1="40" x2="640" y2="220" stroke="#1F2E28" stroke-width="1"/>
+
+  <!-- name -->
+  <text x="60" y="108" class="sans" font-size="46" font-weight="700" fill="#F0FDF9">Aryansh Sharma</text>
+
+  <!-- subtitle line -->
+  <text x="60" y="140" class="mono" font-size="15" fill="#6EE7B7">$ whoami</text>
+  <text x="220" y="140" class="mono" font-size="15" fill="#94A3A0">computer_science_engineering_student</text>
+
+  <!-- role line -->
+  <text x="60" y="168" class="mono" font-size="14" fill="#5B6A65">status:</text>
+  <text x="160" y="168" class="mono" font-size="14" fill="#E2E8E5">learning data structures &amp; algorithms</text>
+
+  <!-- underline accent -->
+  <rect x="60" y="184" width="480" height="2" fill="url(#accentFade)"/>
+
+  <!-- small integrity badge motif bottom-left, ties to Proofchain identity -->
+  <g transform="translate(60, 205)">
+    <rect x="0" y="0" width="14" height="14" rx="2" fill="none" stroke="#34D399" stroke-width="1.5"/>
+    <path d="M3.5 7 L6 9.5 L10.5 4.5" stroke="#34D399" stroke-width="1.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="22" y="11" class="mono" font-size="12" fill="#5B6A65">verified build &middot; SHA-256 integrity checks</text>
+  </g>
+</svg>

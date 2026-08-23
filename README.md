@@ -17,10 +17,10 @@
 
 > **Computer Science Engineering Undergraduate (B.Tech CSE)** focused on building verified full-stack systems, automated AI pipelines, and cryptographic integrity tools. Dedicated to clean system architecture, deterministic rule execution, and writing software backed by rigorous automated test suites.
 
-- 🔭 **Current Focus**: Architecting decision systems, cryptographic verification engines, and Data Structures & Algorithms in **C++** and **Python**.
+- 🔭 **Current Focus**: Architecting decision systems, cryptographic verification engines, and Data Structures & Algorithms in **C++**, **Java**, and **Python**.
 - ⚡ **Engineering Principles**: Deterministic evaluation over probabilistic assumptions, type safety, modular design, and verifiable automated tests.
 - 🎓 **Education**: Computer Science Engineering (3rd Semester) at Shri Shankaracharya Institute of Professional Management & Technology (SSIPMT).
-- 💬 **Ask me about**: Full-Stack Architecture (FastAPI/React), Zero-Hallucination AI Pipelines, Solidity Smart Contracts, or Core CS Fundamentals.
+- 💬 **Ask me about**: Full-Stack Architecture (FastAPI / Spring Boot / React), Zero-Hallucination AI Pipelines, Solidity Smart Contracts, or Core CS Fundamentals.
 
 ---
 
@@ -36,6 +36,8 @@
 |:---|:---|:---|:---:|
 | **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | **Opportunity-to-Application Readiness Platform**<br/>• Enforces zero-hallucination decision making by strictly decoupling Gemini schema extraction from a deterministic Python rule engine.<br/>• Identifies missing mandatory application credentials and flags candidate eligibility constraints. | `Python` `FastAPI` `React 18`<br/>`Gemini AI` `Pydantic` `Tailwind`<br/>**35 Passing Pytest Tests** | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://preppath-ai.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
 | **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Decentralized Document Integrity & Verification**<br/>• Multi-layer tamper detection combining in-browser SHA-256 Web Crypto hashing, OCR text consistency checking, and Supabase registry lookup.<br/>• Solidity smart contract (`ProofAnchor.sol`) guarantees immutable on-chain record persistence and duplicate prevention. | `TypeScript` `Solidity` `Hardhat`<br/>`React` `Supabase` `Web Crypto`<br/>**8 Passing Hardhat Tests** | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
+| **[Smart Attendance](https://github.com/aryanshsharma2025-max/Smart-Attendance)** | **Classroom Attendance & Analytics System**<br/>• Full-stack attendance tracking with multi-modal scan simulation (RFID RC522, AS608 Biometric, BLE/QR).<br/>• Enterprise Java Spring Boot backend with JPA/Hibernate, JWT security, and normalized MySQL schema with automated triggers. | `Java` `Spring Boot` `MySQL`<br/>`JavaScript` `HTML5/CSS3`<br/>**REST API & Triggers** | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Smart-Attendance) |
+| **[Portfolio Website](https://github.com/aryanshsharma2025-max/Portfolio)** | **Modern Interactive Developer Showcase**<br/>• High-performance, responsive portfolio with dark/light themes, GitHub API live integration, and interactive terminal/tools.<br/>• Built with pure vanilla web technologies for lightning-fast load times. | `HTML5` `CSS3` `JavaScript`<br/>`GitHub REST API` `UI/UX`<br/>**Responsive Design** | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Portfolio) |
 
 ---
 
@@ -62,10 +64,11 @@ CODING-LANGUAGES/
 
 | Domain | Defensible Technologies |
 |---|---|
-| **Core Languages** | `C++` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `C` &nbsp;•&nbsp; `Solidity` |
-| **Backend & Architecture** | `FastAPI` &nbsp;•&nbsp; `Pydantic` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `Uvicorn` |
-| **Frontend & UI** | `React 18 / 19` &nbsp;•&nbsp; `Vite` &nbsp;•&nbsp; `Tailwind CSS` |
-| **Testing & Tooling** | `Pytest` &nbsp;•&nbsp; `Hardhat` &nbsp;•&nbsp; `Viem` &nbsp;•&nbsp; `Git & GitHub` &nbsp;•&nbsp; `Supabase (PostgreSQL)` |
+| **Core Languages** | `C++` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `Java` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `C` &nbsp;•&nbsp; `Solidity` &nbsp;•&nbsp; `JavaScript` |
+| **Backend & Architecture** | `Spring Boot` &nbsp;•&nbsp; `FastAPI` &nbsp;•&nbsp; `Pydantic` &nbsp;•&nbsp; `REST APIs` &nbsp;•&nbsp; `JWT Security` &nbsp;•&nbsp; `Uvicorn` |
+| **Databases & Storage** | `MySQL` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Supabase` &nbsp;•&nbsp; `Spring Data JPA / Hibernate` |
+| **Frontend & UI** | `React 18 / 19` &nbsp;•&nbsp; `Vite` &nbsp;•&nbsp; `Tailwind CSS` &nbsp;•&nbsp; `HTML5 / CSS3` |
+| **Testing & Tooling** | `Pytest` &nbsp;•&nbsp; `Hardhat` &nbsp;•&nbsp; `Viem` &nbsp;•&nbsp; `Git & GitHub` &nbsp;•&nbsp; `VS Code` |
 
 </div>
 

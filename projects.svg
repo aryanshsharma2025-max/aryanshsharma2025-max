@@ -1,43 +1,54 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <linearGradient id="pCardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0E1713"/>
+      <stop offset="100%" stop-color="#080E0B"/>
+    </linearGradient>
     <style>
-      .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-      .sans { font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; }
+      .p-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+      .p-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
     </style>
   </defs>
 
-  <rect width="1200" height="300" fill="#0A0F0D"/>
+  <rect width="1200" height="320" rx="12" fill="#060908" stroke="#16241D" stroke-width="1.5"/>
 
-  <text x="40" y="42" class="mono" font-size="13" fill="#5B6A65">// featured_projects</text>
+  <text x="40" y="40" class="p-mono" font-size="13" font-weight="700" fill="#10B981" letter-spacing="1.5">// FEATURED_SYSTEM_ARCHITECTURES</text>
 
-  <!-- Proofchain card: wider, primary -->
-  <g transform="translate(40, 64)">
-    <rect x="0" y="0" width="700" height="210" rx="6" fill="#0F1613" stroke="#1F2E28" stroke-width="1.5"/>
-    <rect x="0" y="0" width="4" height="210" fill="#34D399"/>
+  <!-- PrepPath AI Card -->
+  <g transform="translate(40, 60)">
+    <rect width="545" height="230" rx="8" fill="url(#pCardGrad)" stroke="#1F2E28" stroke-width="1.2"/>
+    <path d="M 0 8 C 0 3.58 3.58 0 8 0 L 537 0 C 541.42 0 545 3.58 545 8 L 545 3 L 0 3 Z" fill="#06B6D4"/>
+    
+    <text x="24" y="38" class="p-sans" font-size="20" font-weight="700" fill="#F8FAFC">PrepPath AI</text>
+    <rect x="155" y="22" width="90" height="22" rx="4" fill="#0C252B" stroke="#06B6D4" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="166" y="37" class="p-mono" font-size="11" font-weight="600" fill="#38BDF8">LIVE DEMO ↗</text>
 
-    <text x="28" y="42" class="sans" font-size="22" font-weight="700" fill="#F0FDF9">Proofchain</text>
-    <text x="28" y="64" class="mono" font-size="12" fill="#6EE7B7">document integrity verification</text>
+    <text x="24" y="62" class="p-mono" font-size="12" fill="#34D399">Opportunity-to-Application Readiness Engine</text>
 
-    <text x="28" y="98" class="sans" font-size="13" fill="#B9C4C0">Detects tampering in files by comparing a</text>
-    <text x="28" y="118" class="sans" font-size="13" fill="#B9C4C0">SHA-256 fingerprint of the original against</text>
-    <text x="28" y="138" class="sans" font-size="13" fill="#B9C4C0">the file's current state — any modification</text>
-    <text x="28" y="158" class="sans" font-size="13" fill="#B9C4C0">changes the hash and flags the document.</text>
+    <text x="24" y="94" class="p-sans" font-size="13" fill="#94A3B8">Decouples deterministic rule checking from LLM</text>
+    <text x="24" y="114" class="p-sans" font-size="13" fill="#94A3B8">extraction to eliminate hallucinated decisions.</text>
+    <text x="24" y="134" class="p-sans" font-size="13" fill="#94A3B8">Evaluates eligibility, document gaps, and risk scores.</text>
 
-    <text x="28" y="190" class="mono" font-size="11" fill="#5B6A65">python &middot; hashlib &middot; html/css &middot; git</text>
+    <rect x="24" y="165" width="497" height="40" rx="6" fill="#080D0A" stroke="#1A2922" stroke-width="1"/>
+    <text x="36" y="189" class="p-mono" font-size="11" fill="#6EE7B7">FastAPI · React 18 · Vite · Gemini AI · Tailwind CSS</text>
   </g>
 
-  <!-- Chatbot card: narrower, secondary -->
-  <g transform="translate(760, 64)">
-    <rect x="0" y="0" width="400" height="210" rx="6" fill="#0F1613" stroke="#1F2E28" stroke-width="1.5"/>
-    <rect x="0" y="0" width="4" height="210" fill="#3F5A50"/>
+  <!-- ProofChain Card -->
+  <g transform="translate(615, 60)">
+    <rect width="545" height="230" rx="8" fill="url(#pCardGrad)" stroke="#1F2E28" stroke-width="1.2"/>
+    <path d="M 0 8 C 0 3.58 3.58 0 8 0 L 537 0 C 541.42 0 545 3.58 545 8 L 545 3 L 0 3 Z" fill="#10B981"/>
+    
+    <text x="24" y="38" class="p-sans" font-size="20" font-weight="700" fill="#F8FAFC">ProofChain</text>
+    <rect x="150" y="22" width="90" height="22" rx="4" fill="#0B261D" stroke="#10B981" stroke-opacity="0.5" stroke-width="1"/>
+    <text x="161" y="37" class="p-mono" font-size="11" font-weight="600" fill="#34D399">LIVE DEMO ↗</text>
 
-    <text x="28" y="42" class="sans" font-size="20" font-weight="700" fill="#F0FDF9">Basic-AI-Chatbot</text>
-    <text x="28" y="64" class="mono" font-size="12" fill="#7C8B86">python chatbot &middot; learning project</text>
+    <text x="24" y="62" class="p-mono" font-size="12" fill="#38BDF8">Decentralized Document Verification DApp</text>
 
-    <text x="28" y="98" class="sans" font-size="13" fill="#B9C4C0">Early Python project exploring</text>
-    <text x="28" y="118" class="sans" font-size="13" fill="#B9C4C0">conversational logic and I/O</text>
-    <text x="28" y="138" class="sans" font-size="13" fill="#B9C4C0">handling fundamentals.</text>
+    <text x="24" y="94" class="p-sans" font-size="13" fill="#94A3B8">Computes SHA-256 cryptographic fingerprints and</text>
+    <text x="24" y="114" class="p-sans" font-size="13" fill="#94A3B8">anchors them immutably on Ethereum Sepolia testnet</text>
+    <text x="24" y="134" class="p-sans" font-size="13" fill="#94A3B8">smart contracts to guarantee tamper detection.</text>
 
-    <text x="28" y="190" class="mono" font-size="11" fill="#5B6A65">python &middot; git</text>
+    <rect x="24" y="165" width="497" height="40" rx="6" fill="#080D0A" stroke="#1A2922" stroke-width="1"/>
+    <text x="36" y="189" class="p-mono" font-size="11" fill="#6EE7B7">TypeScript · Solidity · Hardhat · Sepolia · Supabase</text>
   </g>
 </svg>

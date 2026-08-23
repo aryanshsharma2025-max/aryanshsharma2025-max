@@ -114,19 +114,6 @@ CODING-LANGUAGES/
 
 ---
 
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanshsharma2025-max&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0A120E&title_color=10B981&icon_color=06B6D4&text_color=94A3B8" alt="Aryansh's GitHub Stats" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanshsharma2025-max&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A120E&title_color=10B981&text_color=94A3B8" alt="Top Languages" height="175"/>
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryanshsharma2025-max&theme=tokyonight&hide_border=true&background=0A120E&ring=10B981&fire=10B981&currStreakNum=10B981&currStreakLabel=06B6D4" alt="Aryansh's GitHub Streak" width="95%"/>
-</div>
-
----
-
 ### 📫 Get In Touch
 
 <div align="center">

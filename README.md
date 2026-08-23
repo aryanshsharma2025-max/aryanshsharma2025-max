@@ -20,7 +20,7 @@
 - 🔭 **Current Focus**: Architecting AI-assisted decision systems & deep Data Structures & Algorithms in **C++** and **Python**.
 - ⚡ **Engineering Principles**: Deterministic rule execution, type safety, modular micro-architectures, and zero-hallucination AI pipelines.
 - 🎓 **Education**: Computer Science Engineering (3rd Semester) at Shri Shankaracharya Institute of Professional Management & Technology (SSIPMT).
-- 💬 **Ask me about**: Full-Stack Development (React/FastAPI), Gemini AI API integration, Ethereum Smart Contracts (Solidity), or Core CS fundamentals.
+- 💬 **Ask me about**: Full-Stack Development (React/FastAPI), Gemini AI API integration, Smart Contracts (Solidity), or Core CS fundamentals.
 
 ---
 
@@ -35,7 +35,7 @@
 | Project | Domain / Highlights | Architecture & Stack | Live Demo / Source |
 |:---|:---|:---|:---:|
 | **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | **Opportunity-to-Application Readiness Platform**<br/>• Dual-layer engine separating deterministic rule checking from LLM extraction.<br/>• Eliminates hallucinated scholarship eligibility and flags missing documentation. | `Python` `FastAPI` `React 18`<br/>`Gemini AI` `Tailwind CSS` `Vite` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://preppath-ai.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
-| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Decentralized Document Integrity & Verification**<br/>• Anchors SHA-256 cryptographic document hashes onto Ethereum Sepolia.<br/>• Immutable verification preventing tampering with certificates & legal records. | `TypeScript` `Solidity` `Hardhat`<br/>`Ethereum` `React` `Supabase` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
+| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Decentralized Document Integrity & Verification**<br/>• Anchors SHA-256 cryptographic document hashes onto Sepolia testnet blockchain.<br/>• Immutable verification preventing tampering with certificates & legal records. | `TypeScript` `Solidity` `Hardhat`<br/>`Blockchain` `React` `Supabase` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
 | **[Basic-AI-Chatbot](https://github.com/aryanshsharma2025-max/Basic-AI-Chatbot)** | **Conversational NLP & Keyword Intent CLI**<br/>• Dynamic CLI interface for contextual parsing and intent-matching engine. | `Python` `CLI` `Intent Engine` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Basic-AI-Chatbot) |
 | **[Academic Grading Engine](https://github.com/aryanshsharma2025-max/student-grade-calculator-python)** | **Student Evaluation & Performance Suite**<br/>• OOP-driven grading, CGPA computation, statistical analysis, and record storage. | `Python` `OOP` `Clean Architecture` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/student-grade-calculator-python) |
 
@@ -95,7 +95,7 @@ CODING-LANGUAGES/
   <tr>
     <td align="center" width="20%"><strong>Web3 & Cloud</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
       <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=black"/>
       <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>

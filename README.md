@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg?v=6" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg?v=7" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
 
   <br/><br/>
 
@@ -66,7 +66,7 @@ I started with C and Python, and have been expanding into C++, JavaScript, and w
 ### 🚀 Things I've Built
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg?v=6" alt="Featured Projects" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg?v=7" alt="Featured Projects" width="100%">
 </div>
 
 <br/>

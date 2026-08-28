@@ -1,54 +1,48 @@
-<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="pCardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#0E1713"/>
-      <stop offset="100%" stop-color="#080E0B"/>
-    </linearGradient>
     <style>
-      .p-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
-      .p-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; }
+      .p-mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+      .p-sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
     </style>
   </defs>
 
-  <rect width="1200" height="320" rx="12" fill="#060908" stroke="#16241D" stroke-width="1.5"/>
+  <rect width="1200" height="280" rx="8" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
 
-  <text x="40" y="40" class="p-mono" font-size="13" font-weight="700" fill="#10B981" letter-spacing="1.5">// THINGS_IVE_BUILT · PROJECT_SHOWCASE</text>
+  <text x="40" y="36" class="p-mono" font-size="12" font-weight="600" fill="#8B949E" letter-spacing="1">// THINGS_IVE_BUILT &#183; PROJECT_SHOWCASE</text>
 
   <!-- PrepPath AI Card -->
-  <g transform="translate(40, 60)">
-    <rect width="545" height="230" rx="8" fill="url(#pCardGrad)" stroke="#1F2E28" stroke-width="1.2"/>
-    <path d="M 0 8 C 0 3.58 3.58 0 8 0 L 537 0 C 541.42 0 545 3.58 545 8 L 545 3 L 0 3 Z" fill="#06B6D4"/>
+  <g transform="translate(40, 52)">
+    <rect width="545" height="200" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     
-    <text x="24" y="38" class="p-sans" font-size="20" font-weight="700" fill="#F8FAFC">PrepPath AI</text>
-    <rect x="155" y="22" width="90" height="22" rx="4" fill="#0C252B" stroke="#06B6D4" stroke-opacity="0.5" stroke-width="1"/>
-    <text x="166" y="37" class="p-mono" font-size="11" font-weight="600" fill="#38BDF8">LIVE DEMO ↗</text>
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">PrepPath AI</text>
+    <rect x="145" y="20" width="85" height="22" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="155" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#58A6FF">LIVE DEMO &#8599;</text>
 
-    <text x="24" y="62" class="p-mono" font-size="12" fill="#34D399">Scholarship &amp; Application Eligibility Checker</text>
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Scholarship &amp; Eligibility Checker</text>
 
-    <text x="24" y="94" class="p-sans" font-size="13" fill="#94A3B8">Web application that evaluates student eligibility</text>
-    <text x="24" y="114" class="p-sans" font-size="13" fill="#94A3B8">against opportunity criteria and missing credentials.</text>
-    <text x="24" y="134" class="p-sans" font-size="13" fill="#94A3B8">Built with a Python backend and React user interface.</text>
+    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Evaluates student qualifications against opportunity</text>
+    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">criteria and flags missing requirements.</text>
+    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Built with Python, FastAPI, React, and Gemini API.</text>
 
-    <rect x="24" y="165" width="497" height="40" rx="6" fill="#080D0A" stroke="#1A2922" stroke-width="1"/>
-    <text x="36" y="189" class="p-mono" font-size="11" fill="#6EE7B7">Python · React · JavaScript · HTML / CSS</text>
+    <rect x="24" y="148" width="497" height="34" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">Python &#183; FastAPI &#183; React &#183; Gemini API &#183; JavaScript</text>
   </g>
 
   <!-- ProofChain Card -->
-  <g transform="translate(615, 60)">
-    <rect width="545" height="230" rx="8" fill="url(#pCardGrad)" stroke="#1F2E28" stroke-width="1.2"/>
-    <path d="M 0 8 C 0 3.58 3.58 0 8 0 L 537 0 C 541.42 0 545 3.58 545 8 L 545 3 L 0 3 Z" fill="#10B981"/>
+  <g transform="translate(615, 52)">
+    <rect width="545" height="200" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     
-    <text x="24" y="38" class="p-sans" font-size="20" font-weight="700" fill="#F8FAFC">ProofChain</text>
-    <rect x="150" y="22" width="90" height="22" rx="4" fill="#0B261D" stroke="#10B981" stroke-opacity="0.5" stroke-width="1"/>
-    <text x="161" y="37" class="p-mono" font-size="11" font-weight="600" fill="#34D399">LIVE DEMO ↗</text>
+    <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">ProofChain</text>
+    <rect x="140" y="20" width="85" height="22" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="150" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#3FB950">LIVE DEMO &#8599;</text>
 
-    <text x="24" y="62" class="p-mono" font-size="12" fill="#38BDF8">Document Verification Prototype</text>
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Document Verification Prototype</text>
 
-    <text x="24" y="94" class="p-sans" font-size="13" fill="#94A3B8">Computes file hashes in the browser and records</text>
-    <text x="24" y="114" class="p-sans" font-size="13" fill="#94A3B8">them on an Ethereum testnet to verify file authenticity.</text>
-    <text x="24" y="134" class="p-sans" font-size="13" fill="#94A3B8">Explores client-side hashing and basic smart contracts.</text>
+    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Computes SHA-256 hashes in the browser and records</text>
+    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">them on Ethereum testnet to verify file authenticity.</text>
+    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Explores client-side cryptography and smart contracts.</text>
 
-    <rect x="24" y="165" width="497" height="40" rx="6" fill="#080D0A" stroke="#1A2922" stroke-width="1"/>
-    <text x="36" y="189" class="p-mono" font-size="11" fill="#6EE7B7">JavaScript · Solidity · HTML / CSS · React</text>
+    <rect x="24" y="148" width="497" height="34" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">JavaScript &#183; Solidity &#183; React &#183; Supabase &#183; HTML/CSS</text>
   </g>
 </svg>

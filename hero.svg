@@ -70,28 +70,28 @@
 
     <!-- Subtitle / Role -->
     <text x="0" y="106" class="font-sans" font-size="17" font-weight="600" fill="#38BDF8">
-      Computer Science Undergraduate <tspan fill="#4B6B5E font-weight-400">@</tspan> <tspan fill="#94A3B8">SSIPMT</tspan>
+      Computer Science Undergraduate <tspan fill="#4B6B5E" font-weight="400">@</tspan> <tspan fill="#94A3B8">SSIPMT</tspan>
     </text>
 
     <!-- Core Scope -->
     <text x="0" y="134" class="font-sans" font-size="14" font-weight="400" fill="#94A3B8">
-      C / C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML / CSS
+      C / C++ &#183; Python &#183; JavaScript &#183; HTML / CSS
     </text>
 
     <!-- Tagline -->
     <text x="0" y="162" class="font-mono" font-size="12.5" font-weight="500" fill="#6EE7B7">
-      ✦ Learning by building.
+      &#10022; Learning by building.
     </text>
 
     <!-- Bottom Skill Badges -->
     <g transform="translate(0, 185)">
       <rect x="0" y="0" width="168" height="28" rx="6" fill="#08150F" stroke="#10B981" stroke-opacity="0.35" stroke-width="1"/>
       <circle cx="12" cy="14" r="3.5" fill="#10B981"/>
-      <text x="22" y="18" class="font-mono" font-size="11" font-weight="600" fill="#D1FAE5">C · C++ · Python · JS</text>
+      <text x="22" y="18" class="font-mono" font-size="11" font-weight="600" fill="#D1FAE5">C &#183; C++ &#183; Python &#183; JS</text>
 
       <rect x="178" y="0" width="140" height="28" rx="6" fill="#08141B" stroke="#06B6D4" stroke-opacity="0.35" stroke-width="1"/>
       <circle cx="190" cy="14" r="3.5" fill="#06B6D4"/>
-      <text x="200" y="18" class="font-mono" font-size="11" font-weight="600" fill="#CFFAFE">HTML · CSS · React</text>
+      <text x="200" y="18" class="font-mono" font-size="11" font-weight="600" fill="#CFFAFE">HTML &#183; CSS &#183; React</text>
 
       <rect x="328" y="0" width="160" height="28" rx="6" fill="#101322" stroke="#6366F1" stroke-opacity="0.35" stroke-width="1"/>
       <circle cx="340" cy="14" r="3.5" fill="#818CF8"/>

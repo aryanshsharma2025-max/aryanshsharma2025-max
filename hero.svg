@@ -13,7 +13,7 @@
     </linearGradient>
 
     <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#13201A" stop-opacity="0.85"/>
+      <stop offset="0%" stop-color="#13201A" stop-opacity="0.9"/>
       <stop offset="100%" stop-color="#0A1410" stop-opacity="0.95"/>
     </linearGradient>
 
@@ -35,74 +35,89 @@
 
   <path d="M 0 14 C 0 6.27 6.27 0 14 0 L 1186 0 C 1193.73 0 1200 6.27 1200 14 L 1200 4 L 0 4 Z" fill="url(#emeraldGlow)"/>
 
-  <g opacity="0.12" fill="#10B981" class="font-mono" font-size="11">
-    <text x="820" y="45">0x7F9B2C4E · 5a e9 1c 7b 03 d8 55 a1 f0 6e 92</text>
-    <text x="820" y="68">0x3A1D88F5 · e3 09 6a f1 5c 82 3d b0 47 ce 1a</text>
-    <text x="820" y="91">0x8C4B91E2 · 72 c6 0e 4b a8 15 df 39 6c 91 02</text>
-    <text x="820" y="114">0xDF34A7B0 · b1 4e 87 2f d0 63 1e a9 55 08 c4</text>
-    <text x="820" y="137">0x120FA8E9 · 0f 5d 98 c3 22 7e a6 41 bc 10 59</text>
-    <text x="820" y="160">0x6D81C924 · 6f 12 e8 4c a3 07 db 50 9a 26 f4</text>
-    <text x="820" y="183">0x93074AD6 · 37 9e 5b c0 42 8f 16 a5 6b d2 09</text>
-    <text x="820" y="206">0xBE24F109 · a4 6c 0d f8 51 be 29 93 07 4a d6</text>
-    <text x="820" y="229">0x5C823DB0 · 18 a7 3f 92 d5 60 be 24 f1 09 7c</text>
-    <text x="820" y="252">0x4E872FD0 · e7 4b 12 c9 a0 35 f8 d2 9b 11 63</text>
+  <!-- Code Pattern Background -->
+  <g opacity="0.10" fill="#10B981" class="font-mono" font-size="11">
+    <text x="780" y="45">int main() { std::cout &lt;&lt; "Learning by building\n"; }</text>
+    <text x="780" y="68">struct Node { int data; Node* next; };</text>
+    <text x="780" y="91">template &lt;typename T&gt; void bubbleSort(vector&lt;T&gt;&amp; a);</text>
+    <text x="780" y="114">class Solution { public: vector&lt;int&gt; twoSum(); };</text>
+    <text x="780" y="137">def evaluate_candidate(profile: dict) -&gt; bool:</text>
+    <text x="780" y="160">const hash = await crypto.subtle.digest('SHA-256', buf);</text>
+    <text x="780" y="183">git commit -m "strengthen DSA and core fundamentals"</text>
+    <text x="780" y="206">while (left &lt;= right) { int mid = left + (right-left)/2; }</text>
+    <text x="780" y="229">SELECT student_id, COUNT(*) FROM attendance GROUP BY id;</text>
+    <text x="780" y="252">fetch('/api/check').then(res =&gt; res.json());</text>
   </g>
 
-  <line x1="770" y1="35" x2="770" y2="245" stroke="#1B2E24" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <!-- Divider Line -->
+  <line x1="740" y1="30" x2="740" y2="252" stroke="#1B2E24" stroke-width="1.2" stroke-dasharray="4 4"/>
 
-  <g transform="translate(60, 48)">
+  <!-- Terminal Header -->
+  <g transform="translate(50, 42)">
     <circle cx="6" cy="6" r="5" fill="#EF4444" opacity="0.8"/>
     <circle cx="24" cy="6" r="5" fill="#F59E0B" opacity="0.8"/>
     <circle cx="42" cy="6" r="5" fill="#10B981" opacity="0.8"/>
-    <text x="64" y="10" class="font-mono" font-size="13" fill="#6EE7B7">aryansh@workspace</text>
-    <text x="215" y="10" class="font-mono" font-size="13" fill="#4B6B5E">:</text>
-    <text x="228" y="10" class="font-mono" font-size="13" fill="#94A3B8">~/developer</text>
-    <text x="320" y="10" class="font-mono" font-size="13" fill="#6EE7B7">$</text>
-    <text x="338" y="10" class="font-mono" font-size="13" fill="#E2E8F0">cat profile.json</text>
+    <text x="64" y="10" class="font-mono" font-size="13" fill="#6EE7B7">aryansh@student</text>
+    <text x="195" y="10" class="font-mono" font-size="13" fill="#4B6B5E">:</text>
+    <text x="208" y="10" class="font-mono" font-size="13" fill="#94A3B8">~/developer</text>
+    <text x="300" y="10" class="font-mono" font-size="13" fill="#6EE7B7">$</text>
+    <text x="318" y="10" class="font-mono" font-size="13" fill="#E2E8F0">whoami</text>
   </g>
 
-  <text x="60" y="125" class="font-sans title-glow" font-size="44" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Aryansh Sharma</text>
+  <!-- Main Identity -->
+  <text x="50" y="112" class="font-sans title-glow" font-size="38" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Aryansh Sharma</text>
 
-  <text x="60" y="158" class="font-sans" font-size="18" font-weight="500" fill="#A7F3D0">
-    Computer Science Engineer <tspan fill="#4B6B5E">|</tspan> <tspan fill="#38BDF8">Full-Stack, AI &amp; Web3 Developer</tspan> <tspan fill="#4B6B5E">|</tspan> <tspan fill="#94A3B8">System Thinker</tspan>
+  <!-- Subtitle -->
+  <text x="50" y="142" class="font-sans" font-size="17" font-weight="600" fill="#38BDF8">Computer Science Undergraduate</text>
+
+  <!-- Secondary Line -->
+  <text x="50" y="168" class="font-sans" font-size="14" font-weight="400" fill="#94A3B8">
+    C / C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Web Development
   </text>
 
-  <g transform="translate(60, 185)">
-    <rect x="0" y="0" width="180" height="30" rx="6" fill="#0C1B14" stroke="#10B981" stroke-opacity="0.4" stroke-width="1"/>
+  <!-- Tagline -->
+  <text x="50" y="193" class="font-mono" font-size="13" font-weight="500" fill="#6EE7B7">
+    ✦ Learning by building.
+  </text>
+
+  <!-- Bottom Pills -->
+  <g transform="translate(50, 218)">
+    <rect x="0" y="0" width="195" height="30" rx="6" fill="#0C1B14" stroke="#10B981" stroke-opacity="0.4" stroke-width="1"/>
     <circle cx="14" cy="15" r="4" fill="#10B981"/>
-    <text x="26" y="20" class="font-mono" font-size="12" font-weight="600" fill="#D1FAE5">C++ · Python · TS</text>
+    <text x="26" y="20" class="font-mono" font-size="11" font-weight="600" fill="#D1FAE5">C · C++ · Python · JS</text>
 
-    <rect x="192" y="0" width="220" height="30" rx="6" fill="#0C1920" stroke="#06B6D4" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="206" cy="15" r="4" fill="#06B6D4"/>
-    <text x="218" y="20" class="font-mono" font-size="12" font-weight="600" fill="#CFFAFE">Gemini AI · Solidity · React</text>
+    <rect x="207" y="0" width="170" height="30" rx="6" fill="#0C1920" stroke="#06B6D4" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="221" cy="15" r="4" fill="#06B6D4"/>
+    <text x="233" y="20" class="font-mono" font-size="11" font-weight="600" fill="#CFFAFE">HTML · CSS · React</text>
 
-    <rect x="424" y="0" width="270" height="30" rx="6" fill="#141824" stroke="#6366F1" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="438" cy="15" r="4" fill="#818CF8"/>
-    <text x="450" y="20" class="font-mono" font-size="12" font-weight="600" fill="#E0E7FF">⚡ Building Scalable Systems</text>
+    <rect x="389" y="0" width="220" height="30" rx="6" fill="#141824" stroke="#6366F1" stroke-opacity="0.4" stroke-width="1"/>
+    <circle cx="403" cy="15" r="4" fill="#818CF8"/>
+    <text x="415" y="20" class="font-mono" font-size="11" font-weight="600" fill="#E0E7FF">Learning: DSA in C++</text>
   </g>
 
-  <g transform="translate(805, 55)">
-    <text x="0" y="15" class="font-mono" font-size="12" font-weight="700" fill="#6EE7B7" letter-spacing="1">// CORE_METRICS</text>
+  <!-- Right Cards -->
+  <g transform="translate(765, 45)">
+    <text x="0" y="12" class="font-mono" font-size="12" font-weight="700" fill="#6EE7B7" letter-spacing="1">// PROFILE_OVERVIEW</text>
 
-    <g transform="translate(0, 35)">
-      <rect x="0" y="0" width="340" height="48" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="23" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">PrepPath AI &amp; ProofChain</text>
-      <text x="16" y="39" class="font-mono" font-size="11" fill="#94A3B8">Live Production Deployments on Vercel</text>
-      <circle cx="318" cy="24" r="5" fill="#10B981"/>
+    <g transform="translate(0, 24)">
+      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
+      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">B.Tech Computer Science (3rd Sem)</text>
+      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">SSIPMT · Building Strong Fundamentals</text>
+      <circle cx="363" cy="25" r="5" fill="#10B981"/>
     </g>
 
-    <g transform="translate(0, 95)">
-      <rect x="0" y="0" width="340" height="48" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="23" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">50+ Modular CS Modules</text>
-      <text x="16" y="39" class="font-mono" font-size="11" fill="#94A3B8">C++, Python &amp; C Algorithmic Repos</text>
-      <circle cx="318" cy="24" r="5" fill="#38BDF8"/>
+    <g transform="translate(0, 84)">
+      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
+      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">DSA &amp; C++ Practice</text>
+      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">Currently practicing C++ STL &amp; DSA</text>
+      <circle cx="363" cy="25" r="5" fill="#38BDF8"/>
     </g>
 
-    <g transform="translate(0, 155)">
-      <rect x="0" y="0" width="340" height="48" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="23" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">B.Tech Computer Science</text>
-      <text x="16" y="39" class="font-mono" font-size="11" fill="#94A3B8">Focus: DSA, Algorithms &amp; Architecture</text>
-      <circle cx="318" cy="24" r="5" fill="#A855F7"/>
+    <g transform="translate(0, 144)">
+      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
+      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">Hands-on Project Experience</text>
+      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">PrepPath AI, ProofChain &amp; Attendance Demos</text>
+      <circle cx="363" cy="25" r="5" fill="#A855F7"/>
     </g>
   </g>
 </svg>

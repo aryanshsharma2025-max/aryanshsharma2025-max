@@ -75,12 +75,12 @@
 
     <!-- Core Scope -->
     <text x="0" y="134" class="font-sans" font-size="14" font-weight="400" fill="#94A3B8">
-      Focus: <tspan fill="#E2E8F0" font-weight="500">C/C++ · Python · JavaScript · Web Basics · DSA</tspan>
+      C / C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; HTML / CSS
     </text>
 
     <!-- Tagline -->
     <text x="0" y="162" class="font-mono" font-size="12.5" font-weight="500" fill="#6EE7B7">
-      ✦ Learning by building — depth over breadth.
+      ✦ Learning by building.
     </text>
 
     <!-- Bottom Skill Badges -->

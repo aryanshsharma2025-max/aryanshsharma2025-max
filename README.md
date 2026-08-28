@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg?v=3" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg?v=5" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
 
   <br/><br/>
 
@@ -13,29 +13,25 @@
 
 ---
 
-### 👨‍💻 Who I Am
+### 👨‍💻 About Me
 
-> **Computer Science & Engineering Undergraduate (3rd Semester)** at Shri Shankaracharya Institute of Professional Management & Technology (SSIPMT), focused on building a solid foundation in programming, problem solving, and web development.
+I'm a Computer Science & Engineering undergraduate (3rd Semester) at SSIPMT (CSVTU), focused on strengthening programming fundamentals, problem solving, and software development.
 
-I started programming with **C** and **Python**, and have been expanding into **C++**, **JavaScript**, and **web development** by solving algorithmic problems and building practical software projects.
-
-Right now, my primary focus is strengthening **Data Structures & Algorithms in C++**, writing clean and structured code, and growing into a strong independent developer.
-
-- 🎓 **Academic Status**: B.Tech CSE (3rd Semester) · SSIPMT
-- 💡 **Philosophy**: *Learning by building* — turning conceptual knowledge into working programs.
-- 💬 **Ask me about**: C/C++ fundamentals, Python scripts, college coursework, or the projects I've built.
+I started with C and Python, and have been expanding into C++, JavaScript, and web development through coursework and practical projects. My current priority is developing stronger Data Structures & Algorithms and C++ problem-solving skills.
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills & Technical Exposure
 
 <div align="center">
 
-| Category | Technologies |
+| Category | Technologies & Tools |
 |---|---|
-| **Languages** | `C` &nbsp;•&nbsp; `C++` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `JavaScript` |
-| **Web Development** | `HTML` &nbsp;•&nbsp; `CSS` &nbsp;•&nbsp; `JavaScript` &nbsp;•&nbsp; `React` *(Basics)* |
-| **Tools** | `Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `VS Code` |
+| **Core Programming** | `C` &nbsp;•&nbsp; `C++` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `JavaScript` |
+| **Web Fundamentals** | `HTML5` &nbsp;•&nbsp; `CSS3` &nbsp;•&nbsp; `DOM Manipulation` &nbsp;•&nbsp; `Responsive Web Design` |
+| **Currently Learning** | `C++ STL` &nbsp;•&nbsp; `Data Structures & Algorithms` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `Deeper JavaScript` &nbsp;•&nbsp; `Web Development` |
+| **Project Exposure** | `React` &nbsp;•&nbsp; `FastAPI` &nbsp;•&nbsp; `Spring Boot` &nbsp;•&nbsp; `MySQL` &nbsp;•&nbsp; `Supabase` &nbsp;•&nbsp; `Gemini API` &nbsp;•&nbsp; `Solidity` &nbsp;•&nbsp; `Hardhat` &nbsp;•&nbsp; `Pytest` |
+| **Developer Tools** | `Git` &nbsp;•&nbsp; `GitHub` &nbsp;•&nbsp; `VS Code` |
 
 </div>
 
@@ -46,83 +42,51 @@ Right now, my primary focus is strengthening **Data Structures & Algorithms in C
 > *"My current priority is depth over breadth — mastering core computer science fundamentals and problem solving before chasing every new framework."*
 
 ```
-[ C & C++ Fundamentals ]
+[ C / C++ Fundamentals ]
          │
          ▼
-[ Data Structures & Algorithms in C++ ]
+[ C++ Standard Template Library (STL) ]
          │
          ▼
-[ JavaScript & Web Development (HTML / CSS / JS) ]
+[ Data Structures & Algorithms ]
          │
          ▼
-[ Basic SQL & Database Concepts ]
+[ JavaScript & Web Development ]
+         │
+         ▼
+[ SQL & Backend Fundamentals ]
 ```
 
-- 🧩 **Data Structures & Algorithms**: Practicing fundamentals, arrays, strings, pointers, and problem solving in **C++**.
-- 🌐 **Web Development**: Practicing **HTML**, **CSS**, **JavaScript**, and basic UI design.
-- 🗄️ **Database Basics**: Learning relational database concepts and basic SQL queries.
+- 🧩 **Data Structures & Algorithms**: Practicing arrays, strings, recursion, pointers, and foundational algorithms in **C++**.
+- 🌐 **Web Development**: Strengthening core **HTML/CSS/JavaScript**, DOM manipulation, and asynchronous patterns.
+- 🗄️ **Database Concepts**: Learning relational schema design, table relationships, and SQL querying.
 
 ---
 
 ### 🚀 Things I've Built
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg?v=3" alt="Featured Projects" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg?v=5" alt="Featured Projects" width="100%">
 </div>
 
 <br/>
 
-| Project | What It Does | Technologies | Links |
+| Project | Description | Technologies Explored | Links |
 |:---|:---|:---|:---:|
-| **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | **Scholarship & Application Eligibility Checker**<br/>• Web application that checks student eligibility criteria against opportunity requirements.<br/>• Built with a Python backend and a React frontend. | `Python`<br/>`React`<br/>`JavaScript`<br/>`HTML/CSS` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://preppath-ai.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
-| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Document Verification Prototype**<br/>• Prototype that hashes files in the browser and records them on an Ethereum testnet to verify document authenticity. | `JavaScript`<br/>`Solidity`<br/>`HTML/CSS`<br/>`React` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
-| **[Smart Attendance](https://github.com/aryanshsharma2025-max/Smart-Attendance)** | **Classroom Attendance Management System**<br/>• Attendance tracking web application with student records, attendance logging, and a database. | `Java`<br/>`MySQL`<br/>`JavaScript`<br/>`HTML/CSS` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Smart-Attendance) |
-| **[Portfolio Website](https://github.com/aryanshsharma2025-max/Portfolio)** | **Personal Developer Portfolio**<br/>• Responsive personal portfolio website with theme toggle and project showcases.<br/>• Built using pure vanilla HTML, CSS, and JavaScript. | `HTML`<br/>`CSS`<br/>`JavaScript` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Portfolio) |
+| **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | Uses Gemini to extract information from application documents and applies Python rules to check candidate eligibility. | `Python` `FastAPI` `React` `Gemini API` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://preppath-ai.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
+| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | Document verification prototype using client-side hashing and Ethereum Sepolia testnet anchoring. | `JavaScript` `Solidity` `React` `Supabase` | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
+| **[Smart Attendance](https://github.com/aryanshsharma2025-max/Smart-Attendance)** | Web-based attendance management system using Java, Spring Boot, and MySQL. | `Java` `Spring Boot` `MySQL` `JavaScript` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Smart-Attendance) |
+| **[Portfolio Website](https://github.com/aryanshsharma2025-max/Portfolio)** | Personal portfolio website built with pure vanilla HTML, CSS, and JavaScript. | `HTML5` `CSS3` `JavaScript` | [![Code](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Portfolio) |
 
 ---
 
 ### 💻 Coding Practice & Coursework
 
-My academic coursework and self-directed practice are organized into structured, modular topic repositories:
+Structured coursework and self-directed practice across core languages:
 
-```
-CODING-LANGUAGES/
-├── 📁 cpp-practice/          ── 20 Modules (Basics, Control Flow, Functions, OOP, STL, DSA Problems)
-├── 📁 Python-Programs/       ── 15 Modules (Core Syntax, Recursion, File I/O, Exceptions, NumPy, Pandas)
-└── 📁 C-programs--college-/  ── 17 Modules (Pointers, Memory Allocation malloc/free, Structures, File Streams)
-```
-
-- **[cpp-practice](https://github.com/aryanshsharma2025-max/cpp-practice)** — 20 modular directories covering C++ syntax, object-oriented programming (classes, inheritance, polymorphism), STL containers (`vector`, `map`, `set`, `algorithm`), and daily Data Structures & Algorithms practice.
-- **[Python-Programs](https://github.com/aryanshsharma2025-max/Python-Programs)** — 15 structured modules spanning Python fundamentals, recursion, exception handling, number theory programs, file handling, and basic data analysis with NumPy and Pandas.
-- **[C-programs--college-](https://github.com/aryanshsharma2025-max/C-programs--college-)** — 17 structured topics exploring pointer arithmetic, dynamic memory allocation (`malloc`, `calloc`, `free`), multi-dimensional arrays, file streams (`fopen`, `fprintf`), and foundational search/sort algorithms.
-
----
-
-### 🗺️ My Journey
-
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                                                                                        │
-│  🏫 School / Early Curiosity                                                          │
-│  └─ First exposure to computers, logic building, and problem solving.                 │
-│                                                                                        │
-│  💻 Started Programming (C & Python)                                                   │
-│  └─ Learned control flow, loops, pointers, dynamic memory, and basic algorithms.       │
-│                                                                                        │
-│  ⚙️ C++ & Object-Oriented Programming                                                  │
-│  └─ Deepened understanding of classes, inheritance, polymorphism, and STL containers.  │
-│                                                                                        │
-│  🌐 Web Fundamentals & JavaScript                                                      │
-│  └─ Learned HTML, CSS, DOM manipulation, and responsive web development.               │
-│                                                                                        │
-│  🚀 Building Practical Projects                                                        │
-│  └─ Explored FastAPI, React, Spring Boot, and smart contracts by building prototypes.   │
-│                                                                                        │
-│  🎯 Deepening DSA & Computer Science Fundamentals (Present)                            │
-│  └─ Focused on problem solving in C++, writing clean code, and solidifying core CS.   │
-│                                                                                        │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+- **[C Programming](https://github.com/aryanshsharma2025-max/C-programs--college-)** — Pointers, dynamic memory allocation (`malloc`, `calloc`, `free`), structures, multi-dimensional arrays, file streams, and searching/sorting algorithms.
+- **[C++ Practice & STL](https://github.com/aryanshsharma2025-max/cpp-practice)** — C++ syntax, object-oriented programming (classes, inheritance, polymorphism), STL containers (`vector`, `map`, `algorithm`), and DSA problem solving.
+- **[Python Practice](https://github.com/aryanshsharma2025-max/Python-Programs)** — Core syntax, recursion, exception handling, file I/O, and foundational data analysis with NumPy and Pandas.
 
 ---
 
@@ -130,7 +94,7 @@ CODING-LANGUAGES/
 
 <div align="center">
 
-  **Open to student software engineering internships, open-source learning, and collaborative projects.**
+  **Open to student software engineering internships, learning opportunities, and technical collaborations.**
 
   <br/>
 
@@ -147,5 +111,5 @@ CODING-LANGUAGES/
   </a>
 
   <br/><br/>
-  <sub>© 2026 Aryansh Sharma • B.Tech Computer Science Undergraduate • Continuous Learner</sub>
+  <sub>© 2026 Aryansh Sharma • Computer Science & Engineering Undergraduate</sub>
 </div>

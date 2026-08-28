@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/hero.svg?v=3" alt="Aryansh Sharma - Developer Profile Banner" width="100%">
 
   <br/><br/>
 
@@ -67,7 +67,7 @@ Right now, my primary focus is strengthening **Data Structures & Algorithms in C
 ### 🚀 Things I've Built
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg" alt="Featured Projects" width="100%">
+  <img src="https://raw.githubusercontent.com/aryanshsharma2025-max/aryanshsharma2025-max/main/projects.svg?v=3" alt="Featured Projects" width="100%">
 </div>
 
 <br/>

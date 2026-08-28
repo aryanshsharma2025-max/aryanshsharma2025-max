@@ -1,123 +1,170 @@
-<svg width="1200" height="280" viewBox="0 0 1200 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="290" viewBox="0 0 1200 290" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#060908"/>
-      <stop offset="50%" stop-color="#0A120E"/>
-      <stop offset="100%" stop-color="#0F1B15"/>
+      <stop offset="0%" stop-color="#050807"/>
+      <stop offset="50%" stop-color="#08100C"/>
+      <stop offset="100%" stop-color="#0C1712"/>
     </linearGradient>
 
-    <linearGradient id="emeraldGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Top Glow Line -->
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#10B981"/>
       <stop offset="50%" stop-color="#06B6D4"/>
-      <stop offset="100%" stop-color="#3B82F6"/>
+      <stop offset="100%" stop-color="#6366F1"/>
     </linearGradient>
 
-    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" stop-color="#13201A" stop-opacity="0.9"/>
-      <stop offset="100%" stop-color="#0A1410" stop-opacity="0.95"/>
+    <!-- Name Gradient -->
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="60%" stop-color="#F1F5F9"/>
+      <stop offset="100%" stop-color="#6EE7B7"/>
     </linearGradient>
 
+    <!-- Border Gradient -->
     <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#10B981" stop-opacity="0.4"/>
-      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#1F2E28" stop-opacity="0.6"/>
+      <stop offset="0%" stop-color="#10B981" stop-opacity="0.45"/>
+      <stop offset="50%" stop-color="#06B6D4" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#1E3328" stop-opacity="0.6"/>
     </linearGradient>
+
+    <!-- Editor Header Gradient -->
+    <linearGradient id="editorHeaderGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#111D17"/>
+      <stop offset="100%" stop-color="#0C1611"/>
+    </linearGradient>
+
+    <!-- Dot Pattern -->
+    <pattern id="dotGrid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#172E23" opacity="0.45"/>
+    </pattern>
 
     <style>
       .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, 'Courier New', monospace; }
       .font-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
-      .title-glow { filter: drop-shadow(0 0 16px rgba(16, 185, 129, 0.35)); }
+      .glow-title { filter: drop-shadow(0 0 20px rgba(16, 185, 129, 0.3)); }
+      .box-glow { filter: drop-shadow(0 4px 24px rgba(0, 0, 0, 0.45)); }
     </style>
   </defs>
 
-  <rect width="1200" height="280" rx="14" fill="url(#bgGrad)"/>
-  <rect x="1" y="1" width="1198" height="278" rx="13" stroke="url(#borderGrad)" stroke-width="1.5"/>
+  <!-- Base Background -->
+  <rect width="1200" height="290" rx="14" fill="url(#bgGrad)"/>
+  <rect width="1200" height="290" rx="14" fill="url(#dotGrid)"/>
+  <rect x="1" y="1" width="1198" height="288" rx="13" stroke="url(#borderGrad)" stroke-width="1.5"/>
 
-  <path d="M 0 14 C 0 6.27 6.27 0 14 0 L 1186 0 C 1193.73 0 1200 6.27 1200 14 L 1200 4 L 0 4 Z" fill="url(#emeraldGlow)"/>
+  <!-- Top Accent Glow Ribbon -->
+  <path d="M 0 14 C 0 6.27 6.27 0 14 0 L 1186 0 C 1193.73 0 1200 6.27 1200 14 L 1200 3.5 L 0 3.5 Z" fill="url(#accentLine)"/>
 
-  <!-- Code Pattern Background -->
-  <g opacity="0.10" fill="#10B981" class="font-mono" font-size="11">
-    <text x="780" y="45">int main() { std::cout &lt;&lt; "Learning by building\n"; }</text>
-    <text x="780" y="68">struct Node { int data; Node* next; };</text>
-    <text x="780" y="91">template &lt;typename T&gt; void bubbleSort(vector&lt;T&gt;&amp; a);</text>
-    <text x="780" y="114">class Solution { public: vector&lt;int&gt; twoSum(); };</text>
-    <text x="780" y="137">def evaluate_candidate(profile: dict) -&gt; bool:</text>
-    <text x="780" y="160">const hash = await crypto.subtle.digest('SHA-256', buf);</text>
-    <text x="780" y="183">git commit -m "strengthen DSA and core fundamentals"</text>
-    <text x="780" y="206">while (left &lt;= right) { int mid = left + (right-left)/2; }</text>
-    <text x="780" y="229">SELECT student_id, COUNT(*) FROM attendance GROUP BY id;</text>
-    <text x="780" y="252">fetch('/api/check').then(res =&gt; res.json());</text>
-  </g>
+  <!-- Ambient Glow Behind Name -->
+  <circle cx="220" cy="140" r="130" fill="#10B981" opacity="0.07" filter="blur(40px)"/>
 
-  <!-- Divider Line -->
-  <line x1="740" y1="30" x2="740" y2="252" stroke="#1B2E24" stroke-width="1.2" stroke-dasharray="4 4"/>
+  <!-- ==================== LEFT COLUMN: IDENTITY ==================== -->
+  <g transform="translate(48, 38)">
+    <!-- Status Pill -->
+    <rect x="0" y="0" width="220" height="26" rx="13" fill="#091811" stroke="#10B981" stroke-opacity="0.45" stroke-width="1"/>
+    <circle cx="13" cy="13" r="4.5" fill="#10B981"/>
+    <text x="25" y="17" class="font-mono" font-size="11" font-weight="600" fill="#6EE7B7">B.Tech CSE (3rd Semester)</text>
 
-  <!-- Terminal Header -->
-  <g transform="translate(50, 42)">
-    <circle cx="6" cy="6" r="5" fill="#EF4444" opacity="0.8"/>
-    <circle cx="24" cy="6" r="5" fill="#F59E0B" opacity="0.8"/>
-    <circle cx="42" cy="6" r="5" fill="#10B981" opacity="0.8"/>
-    <text x="64" y="10" class="font-mono" font-size="13" fill="#6EE7B7">aryansh@student</text>
-    <text x="195" y="10" class="font-mono" font-size="13" fill="#4B6B5E">:</text>
-    <text x="208" y="10" class="font-mono" font-size="13" fill="#94A3B8">~/developer</text>
-    <text x="300" y="10" class="font-mono" font-size="13" fill="#6EE7B7">$</text>
-    <text x="318" y="10" class="font-mono" font-size="13" fill="#E2E8F0">whoami</text>
-  </g>
+    <!-- Full Name with Glow -->
+    <text x="0" y="74" class="font-sans glow-title" font-size="44" font-weight="900" fill="url(#nameGrad)" letter-spacing="-0.8">Aryansh Sharma</text>
 
-  <!-- Main Identity -->
-  <text x="50" y="112" class="font-sans title-glow" font-size="38" font-weight="800" fill="#F8FAFC" letter-spacing="-0.5">Aryansh Sharma</text>
+    <!-- Subtitle / Role -->
+    <text x="0" y="106" class="font-sans" font-size="17" font-weight="600" fill="#38BDF8">
+      Computer Science Undergraduate <tspan fill="#4B6B5E font-weight-400">@</tspan> <tspan fill="#94A3B8">SSIPMT</tspan>
+    </text>
 
-  <!-- Subtitle -->
-  <text x="50" y="142" class="font-sans" font-size="17" font-weight="600" fill="#38BDF8">Computer Science Undergraduate</text>
+    <!-- Core Scope -->
+    <text x="0" y="134" class="font-sans" font-size="14" font-weight="400" fill="#94A3B8">
+      Focus: <tspan fill="#E2E8F0" font-weight="500">C/C++ · Python · JavaScript · Web Basics · DSA</tspan>
+    </text>
 
-  <!-- Secondary Line -->
-  <text x="50" y="168" class="font-sans" font-size="14" font-weight="400" fill="#94A3B8">
-    C / C++ &nbsp;·&nbsp; Python &nbsp;·&nbsp; JavaScript &nbsp;·&nbsp; Web Development
-  </text>
+    <!-- Tagline -->
+    <text x="0" y="162" class="font-mono" font-size="12.5" font-weight="500" fill="#6EE7B7">
+      ✦ Learning by building — depth over breadth.
+    </text>
 
-  <!-- Tagline -->
-  <text x="50" y="193" class="font-mono" font-size="13" font-weight="500" fill="#6EE7B7">
-    ✦ Learning by building.
-  </text>
+    <!-- Bottom Skill Badges -->
+    <g transform="translate(0, 185)">
+      <rect x="0" y="0" width="168" height="28" rx="6" fill="#08150F" stroke="#10B981" stroke-opacity="0.35" stroke-width="1"/>
+      <circle cx="12" cy="14" r="3.5" fill="#10B981"/>
+      <text x="22" y="18" class="font-mono" font-size="11" font-weight="600" fill="#D1FAE5">C · C++ · Python · JS</text>
 
-  <!-- Bottom Pills -->
-  <g transform="translate(50, 218)">
-    <rect x="0" y="0" width="195" height="30" rx="6" fill="#0C1B14" stroke="#10B981" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="14" cy="15" r="4" fill="#10B981"/>
-    <text x="26" y="20" class="font-mono" font-size="11" font-weight="600" fill="#D1FAE5">C · C++ · Python · JS</text>
+      <rect x="178" y="0" width="140" height="28" rx="6" fill="#08141B" stroke="#06B6D4" stroke-opacity="0.35" stroke-width="1"/>
+      <circle cx="190" cy="14" r="3.5" fill="#06B6D4"/>
+      <text x="200" y="18" class="font-mono" font-size="11" font-weight="600" fill="#CFFAFE">HTML · CSS · React</text>
 
-    <rect x="207" y="0" width="170" height="30" rx="6" fill="#0C1920" stroke="#06B6D4" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="221" cy="15" r="4" fill="#06B6D4"/>
-    <text x="233" y="20" class="font-mono" font-size="11" font-weight="600" fill="#CFFAFE">HTML · CSS · React</text>
-
-    <rect x="389" y="0" width="220" height="30" rx="6" fill="#141824" stroke="#6366F1" stroke-opacity="0.4" stroke-width="1"/>
-    <circle cx="403" cy="15" r="4" fill="#818CF8"/>
-    <text x="415" y="20" class="font-mono" font-size="11" font-weight="600" fill="#E0E7FF">Learning: DSA in C++</text>
-  </g>
-
-  <!-- Right Cards -->
-  <g transform="translate(765, 45)">
-    <text x="0" y="12" class="font-mono" font-size="12" font-weight="700" fill="#6EE7B7" letter-spacing="1">// PROFILE_OVERVIEW</text>
-
-    <g transform="translate(0, 24)">
-      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">B.Tech Computer Science (3rd Sem)</text>
-      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">SSIPMT · Building Strong Fundamentals</text>
-      <circle cx="363" cy="25" r="5" fill="#10B981"/>
+      <rect x="328" y="0" width="160" height="28" rx="6" fill="#101322" stroke="#6366F1" stroke-opacity="0.35" stroke-width="1"/>
+      <circle cx="340" cy="14" r="3.5" fill="#818CF8"/>
+      <text x="350" y="18" class="font-mono" font-size="11" font-weight="600" fill="#E0E7FF">Practicing DSA in C++</text>
     </g>
+  </g>
 
-    <g transform="translate(0, 84)">
-      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">DSA &amp; C++ Practice</text>
-      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">Currently practicing C++ STL &amp; DSA</text>
-      <circle cx="363" cy="25" r="5" fill="#38BDF8"/>
-    </g>
+  <!-- ==================== RIGHT COLUMN: CODE EDITOR CARD ==================== -->
+  <g transform="translate(605, 28)" class="box-glow">
+    <!-- Editor Card Background -->
+    <rect width="545" height="234" rx="10" fill="#070E0B" stroke="#182B21" stroke-width="1.2"/>
 
-    <g transform="translate(0, 144)">
-      <rect x="0" y="0" width="385" height="50" rx="6" fill="url(#cardGrad)" stroke="#1F2E28" stroke-width="1"/>
-      <text x="16" y="22" class="font-sans" font-size="13" font-weight="600" fill="#F1F5F9">Hands-on Project Experience</text>
-      <text x="16" y="38" class="font-mono" font-size="11" fill="#94A3B8">PrepPath AI, ProofChain &amp; Attendance Demos</text>
-      <circle cx="363" cy="25" r="5" fill="#A855F7"/>
+    <!-- Editor Title Bar -->
+    <rect width="545" height="34" rx="10" fill="url(#editorHeaderGrad)"/>
+    <path d="M 0 24 L 0 34 L 545 34 L 545 24 Z" fill="#0C1611"/>
+    <line x1="0" y1="34" x2="545" y2="34" stroke="#182B21" stroke-width="1"/>
+
+    <!-- Traffic Lights -->
+    <circle cx="18" cy="17" r="5" fill="#EF4444" opacity="0.85"/>
+    <circle cx="34" cy="17" r="5" fill="#F59E0B" opacity="0.85"/>
+    <circle cx="50" cy="17" r="5" fill="#10B981" opacity="0.85"/>
+
+    <!-- Active File Tab -->
+    <rect x="75" y="6" width="165" height="28" rx="5" fill="#070E0B" stroke="#182B21" stroke-width="1"/>
+    <text x="88" y="23" class="font-mono" font-size="11.5" font-weight="600" fill="#6EE7B7">student_profile.cpp</text>
+
+    <!-- Secondary Tab -->
+    <text x="255" y="23" class="font-mono" font-size="11.5" fill="#4B6B5E">skills.json</text>
+
+    <!-- Code Content -->
+    <g transform="translate(20, 56)" class="font-mono" font-size="12">
+      <!-- Line 1 -->
+      <text x="0" y="0" fill="#3D5A4C">// 3rd Semester CSE Undergraduate @ SSIPMT</text>
+
+      <!-- Line 2 -->
+      <text x="0" y="20">
+        <tspan fill="#F43F5E">#include</tspan> <tspan fill="#38BDF8">&lt;iostream&gt;</tspan>
+      </text>
+
+      <!-- Line 3 -->
+      <text x="0" y="42">
+        <tspan fill="#F43F5E">struct</tspan> <tspan fill="#FCD34D">Developer</tspan> {
+      </text>
+
+      <!-- Line 4 -->
+      <text x="18" y="64">
+        <tspan fill="#38BDF8">string</tspan> name = <tspan fill="#34D399">"Aryansh Sharma"</tspan>;
+      </text>
+
+      <!-- Line 5 -->
+      <text x="18" y="86">
+        <tspan fill="#38BDF8">string</tspan> college = <tspan fill="#34D399">"SSIPMT (3rd Sem)"</tspan>;
+      </text>
+
+      <!-- Line 6 -->
+      <text x="18" y="108">
+        <tspan fill="#38BDF8">string</tspan> core[] = {<tspan fill="#34D399">"C"</tspan>, <tspan fill="#34D399">"C++"</tspan>, <tspan fill="#34D399">"Python"</tspan>, <tspan fill="#34D399">"JS"</tspan>};
+      </text>
+
+      <!-- Line 7 -->
+      <text x="18" y="130">
+        <tspan fill="#38BDF8">string</tspan> focus = <tspan fill="#34D399">"DSA in C++ &amp; Web Basics"</tspan>;
+      </text>
+
+      <!-- Line 8 -->
+      <text x="18" y="152">
+        <tspan fill="#38BDF8">string</tspan> approach = <tspan fill="#34D399">"Learn by Building"</tspan>;
+      </text>
+
+      <!-- Line 9 -->
+      <text x="0" y="172">
+        };
+      </text>
     </g>
   </g>
 </svg>

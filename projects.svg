@@ -15,17 +15,17 @@
     <rect width="545" height="200" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1"/>
     
     <text x="24" y="36" class="p-sans" font-size="18" font-weight="600" fill="#F0F6FC">PrepPath AI</text>
-    <rect x="145" y="20" width="85" height="22" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
-    <text x="155" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#58A6FF">LIVE DEMO &#8599;</text>
+    <rect x="145" y="20" width="105" height="22" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
+    <text x="155" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#58A6FF">FASTAPI + AI</text>
 
-    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Scholarship &amp; Eligibility Checker</text>
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Eligibility &amp; Readiness Platform</text>
 
-    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Evaluates student qualifications against opportunity</text>
-    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">criteria and flags missing requirements.</text>
-    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Built with Python, FastAPI, React, and Gemini API.</text>
+    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Evaluates student qualifications against opportunity criteria.</text>
+    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">Decouples LLM schema extraction from deterministic rule logic.</text>
+    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Eliminates hallucinations with Python Pydantic validation.</text>
 
     <rect x="24" y="148" width="497" height="34" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
-    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">Python &#183; FastAPI &#183; React &#183; Gemini API &#183; JavaScript</text>
+    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">Python &#183; FastAPI &#183; Pydantic &#183; Rule Engine &#183; Pytest</text>
   </g>
 
   <!-- ProofChain Card -->
@@ -36,13 +36,13 @@
     <rect x="140" y="20" width="85" height="22" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
     <text x="150" y="35" class="p-mono" font-size="10.5" font-weight="500" fill="#3FB950">LIVE DEMO &#8599;</text>
 
-    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Document Verification Prototype</text>
+    <text x="24" y="58" class="p-mono" font-size="11.5" fill="#8B949E">Cryptographic Credential Verification</text>
 
-    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Computes SHA-256 hashes in the browser and records</text>
-    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">them on Ethereum testnet to verify file authenticity.</text>
-    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Explores client-side cryptography and smart contracts.</text>
+    <text x="24" y="88" class="p-sans" font-size="13" fill="#8B949E">Computes client-side SHA-256 hashes via Web Crypto API.</text>
+    <text x="24" y="108" class="p-sans" font-size="13" fill="#8B949E">Validates OCR content consistency against trusted registry.</text>
+    <text x="24" y="128" class="p-sans" font-size="13" fill="#8B949E">Anchors tamper-evident verification on Ethereum testnet.</text>
 
     <rect x="24" y="148" width="497" height="34" rx="4" fill="#21262D" stroke="#30363D" stroke-width="1"/>
-    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">JavaScript &#183; Solidity &#183; React &#183; Supabase &#183; HTML/CSS</text>
+    <text x="36" y="170" class="p-mono" font-size="11" fill="#C9D1D9">TypeScript &#183; SHA-256 &#183; Web Crypto &#183; Solidity &#183; React</text>
   </g>
 </svg>

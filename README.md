@@ -15,13 +15,13 @@
 
 ### 👨‍💻 About Me
 
-> **Computer Science & Engineering undergraduate focusing on robust backend systems, deterministic rule engines, relational database architecture, and algorithmic problem solving.**
+> **B.Tech Computer Science and Engineering undergraduate interested in software development, backend engineering, applied AI, database design, and algorithmic problem solving.**
 
-I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raipur (CSVTU). My technical focus centers on:
-- **Backend & REST APIs:** Engineering layered services in Java 17 / Spring Boot 3 and Python / FastAPI.
-- **Applied AI & Deterministic Validation:** Decoupling non-deterministic LLM extraction (Google Gemini) from deterministic business logic with Pydantic schemas and Python rule engines.
-- **Relational Systems & Design:** Modeling 3NF relational schemas, authorization matrices, and automated integrity validation tooling in MySQL and Python.
-- **Systems Fundamentals & DSA:** Writing modern C++ and solving algorithmic challenges on LeetCode and GeeksforGeeks.
+I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raipur (CSVTU). I develop academic and independent projects while strengthening my programming and engineering fundamentals, with a focus on:
+- **Backend Development & REST APIs:** Implementing layered services and data access in Java 17 / Spring Boot 3 and Python / FastAPI.
+- **Applied AI & Rule-Based Systems:** Decoupling document requirement extraction using Google Gemini from deterministic business logic evaluated through Python rule engines and Pydantic schemas.
+- **Database Design & Relational Modeling:** Designing 3NF relational schemas, role-based authorization structures, and automated integrity validation scripts in MySQL and Python.
+- **Algorithms & Systems Fundamentals:** Practicing data structures and algorithms in modern C++ through continuous problem-solving on LeetCode and GeeksforGeeks.
 
 ---
 
@@ -29,15 +29,15 @@ I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raip
 
 <div align="center">
 
-| 1. Enterprise Backend | 2. Applied AI & Rules | 3. Security & Hashing | 4. Algorithms & C++ |
+| 1. Backend Development & Databases | 2. Applied AI & Rule-Based Evaluation | 3. Document Integrity & Blockchain Concepts | 4. Algorithms & C++ Practice |
 |:---|:---|:---|:---|
-| • Java 17 + Spring Boot 3<br/>• Spring Security 6 & JWT<br/>• Relational Schema Design (MySQL)<br/>• Authorization boundary testing (BOLA/IDOR) | • Python 3.12 & FastAPI<br/>• Pydantic v2 data contracts<br/>• Deterministic Python rule engines<br/>• Automated Pytest suites (39 tests) | • Client-side SHA-256 (Web Crypto)<br/>• Solidity smart contracts (`^0.8.28`)<br/>• Hardhat & Viem test suites (8 tests)<br/>• Heuristic OCR consistency checks | • Modern C++ (C++17)<br/>• 246 modular coursework programs<br/>• 34 algorithmic solutions (LeetCode/GFG)<br/>• Graphs, Backtracking, Two-Pointers |
+| • Java 17 + Spring Boot 3<br/>• Spring Security 6 & JWT<br/>• Relational Schema Design (MySQL)<br/>• Layered access control & IDOR protection | • Python 3.12 & FastAPI<br/>• Pydantic v2 data contracts<br/>• Deterministic Python rule engines<br/>• Automated Pytest suites (39 tests) | • Client-side SHA-256 (Web Crypto)<br/>• Solidity smart contracts (`^0.8.28`)<br/>• Local Hardhat test suite (8 tests)<br/>• OCR-based text consistency checks | • Modern C++ (C++17)<br/>• 246 coursework & practice programs<br/>• 34 algorithmic solutions (LeetCode/GFG)<br/>• Graphs, Backtracking, Two-Pointers |
 
 </div>
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Technologies Used Across Projects & Coursework
 
 <div align="center">
 
@@ -62,24 +62,24 @@ I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raip
 
 | Project | Focus | Architecture & Engineering Highlights | Links |
 |:---|:---|:---|:---:|
-| **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | **Backend & Rule Engine** | Decouples Gemini schema extraction from a deterministic Python rule engine to eliminate AI hallucinations in scholarship assessment. Backed by **39 passing Pytest tests** covering edge cases, income cleaning, and upload limits. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
-| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Document Integrity & Web3** | Multi-layer credential verification combining in-browser SHA-256 Web Crypto hashing, OCR consistency checks, and a Solidity smart contract anchored on EVM ledgers. Verified with **8 Hardhat tests**. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
-| **[Smart Attendance](https://github.com/aryanshsharma2025-max/Smart-Attendance)** | **Enterprise Java Backend** | Layered Spring Boot 3 architecture with MySQL 8.0 schema and stateless JWT authentication. Implements role-based access control (HOD/Faculty/Student) and BOLA/IDOR protection verified across **3 JUnit 5 test suites**. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Smart-Attendance) |
-| **[SAAP](https://github.com/aryanshsharma2025-max/Success_Academic_Analytics_Platform)** | **Systems Design & Data Modeling** | Institutional academic analytics specifications including IEEE SRS v1.0, 9-role authorization matrix, 13-entity relational ERD (3NF), and a **6,991-record synthetic dataset** verified by an automated Python integrity validator. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Success_Academic_Analytics_Platform) |
-| **[NashaPrahari](https://github.com/aryanshsharma2025-max/nashaprahari)** | **Frontend Prototype (SIH 2026)** | Field-oriented digital companion prototype for narcotics testing operations. Explores responsive mobile interfaces, step-by-step screening workflows, and digital custody tracking in React 19 and TypeScript. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/nashaprahari) |
-| **[Portfolio Website](https://github.com/aryanshsharma2025-max/Portfolio)** | **Vanilla Web Engineering** | Personal developer portfolio engineered with semantic HTML5, modern CSS3 variables (dark/light theme persistence in `localStorage`), and vanilla JavaScript with zero framework dependencies. | [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-181717?style=flat-square&logo=github)](https://aryanshsharma2025-max.github.io/Portfolio/) <br/> [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Portfolio) |
+| **[PrepPath AI](https://github.com/aryanshsharma2025-max/PrepPath-AI)** | **Backend & Rule Engine** | Uses Gemini for document requirement extraction while evaluating eligibility deterministically in Python to reduce reliance on LLM decisions (while recognizing extraction errors remain possible). Backed by **39 passing Pytest tests** covering criteria matching, income parsing, and input boundaries. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/PrepPath-AI) |
+| **[ProofChain](https://github.com/aryanshsharma2025-max/ProofChain)** | **Document Integrity & Web3** | Document-integrity and credential-consistency verification prototype combining in-browser SHA-256 Web Crypto hashing, Supabase registry lookup, OCR consistency checks, and a Solidity contract with **8 passing local Hardhat tests**. Document hashing verifies byte integrity but does not independently authenticate issuing institution identity. | [![Live Demo](https://img.shields.io/badge/Live_Demo-Vercel-black?style=flat-square&logo=vercel)](https://proof-chain-kappa.vercel.app) <br/> [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/ProofChain) |
+| **[Smart Attendance](https://github.com/aryanshsharma2025-max/Smart-Attendance)** | **Academic Backend System** | Implemented academic attendance backend using Java 17, Spring Boot 3, and MySQL 8.0 with stateless JWT authentication. Implements role-based access control (HOD/Faculty/Student) and session record ownership protection, verified across **3 JUnit 5 test classes** covering authorization boundaries. | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Smart-Attendance) |
+| **[SAAP](https://github.com/aryanshsharma2025-max/Success_Academic_Analytics_Platform)** | **Systems Design & Data Modeling** | Systems design, requirements engineering, and relational data modeling project for an academic analytics platform. Features an IEEE SRS v1.0, 9-role authorization matrix, 13-entity 3NF ERD, and a **6,991-record synthetic dataset** verified with Python integrity tests (frontend and backend implementation planned). | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Success_Academic_Analytics_Platform) |
+| **[NashaPrahari](https://github.com/aryanshsharma2025-max/nashaprahari)** | **Frontend UI Prototype (SIH 2026)** | Frontend user interface prototype for field narcotics testing operations developed for Smart India Hackathon (SIH 2026). Explores mobile-first screening forms, evidence locker tracking, and simulated offline queue behavior in React 19 and TypeScript (currently a UI prototype without a backend, database, or automated test suite). | [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/nashaprahari) |
+| **[Portfolio Website](https://github.com/aryanshsharma2025-max/Portfolio)** | **Vanilla Web Engineering** | Personal developer portfolio built with semantic HTML5, modern CSS3 variables (dark/light theme persistence in `localStorage`), and vanilla JavaScript with zero framework dependencies or external build overhead. | [![Live Demo](https://img.shields.io/badge/Live_Demo-GitHub_Pages-181717?style=flat-square&logo=github)](https://aryanshsharma2025-max.github.io/Portfolio/) <br/> [![Source](https://img.shields.io/badge/Source-GitHub-181717?style=flat-square&logo=github)](https://github.com/aryanshsharma2025-max/Portfolio) |
 
 ---
 
 ### 💻 Problem Solving & Algorithmic Practice
 
-- **[DSA_Questions](https://github.com/aryanshsharma2025-max/DSA_Questions)** — **34 solved algorithmic problems** in modern C++ across LeetCode (31) and GeeksforGeeks (3). Includes solutions in graph traversal (Number of Islands, Number of Provinces, Bipartite Graph, Course Schedule, Directed Cycle), backtracking (N-Queens, Permutations, Combination Sum), and dynamic programming.
-- **[cpp-practice](https://github.com/aryanshsharma2025-max/cpp-practice)** — **246 verified C++ programs across 12 active modules** (and 3 roadmap directories) covering language fundamentals, pointers, memory addressing, OOP (constructors, encapsulation, inheritance, polymorphism), and elementary data structures.
-- **[C Programming (1st Sem)](https://github.com/aryanshsharma2025-max/C-programs--college-)** — **116 verified programs** covering dynamic memory allocation (`malloc`, `calloc`, `free`), pointers, structs, and file streams.
-- **[Python Coursework (2nd Sem)](https://github.com/aryanshsharma2025-max/Python-Programs)** — **87 coursework scripts** covering Python syntax, recursion, exception handling, and NumPy computations.
-- **[Web Development Lab](https://github.com/aryanshsharma2025-max/Web-Dev)** — **191 practical lab exercises** exploring semantic HTML, form validation, CSS layouts, and DOM event handling.
+- **[DSA_Questions](https://github.com/aryanshsharma2025-max/DSA_Questions)** — **34 solved algorithmic problems** in modern C++ across LeetCode (31) and GeeksforGeeks (3). Topics explored through implementations include arrays, binary search, linked lists, stacks, recursion, backtracking (N-Queens, Permutations, Combination Sum), graph traversal (Number of Islands, Number of Provinces, Course Schedule, Bipartite Graph), and introductory dynamic programming.
+- **[cpp-practice](https://github.com/aryanshsharma2025-max/cpp-practice)** — **246 verified C++ coursework and practice programs** organized across 12 active modules covering language fundamentals, pointers, memory addressing, object-oriented programming (constructors, encapsulation, inheritance, polymorphism), and elementary data structures as part of ongoing C++ development.
+- **[C Programming (1st Sem)](https://github.com/aryanshsharma2025-max/C-programs--college-)** — **116 verified coursework programs** exploring structured programming, pointers, dynamic memory allocation (`malloc`, `calloc`, `free`), structs, and file streams.
+- **[Python Coursework (2nd Sem)](https://github.com/aryanshsharma2025-max/Python-Programs)** — **87 coursework scripts** covering core Python syntax, recursion, exception handling, and introductory numerical computing with NumPy.
+- **[Web Development Lab](https://github.com/aryanshsharma2025-max/Web-Dev)** — **191 practical lab exercises** exploring semantic HTML5, form validation, CSS layouts, and DOM event handling.
 
-> **Audit & Integrity Note:** All program and solution counts are audited directly via Git-tracked source files (`git ls-files`), explicitly excluding untracked build artifacts, virtual environments, and generated dependencies.
+> **Note on Practice Metrics:** All program and solution counts reflect Git-tracked source files (`git ls-files`) representing coursework exercises and active problem-solving practice rather than claims of comprehensive mastery.
 
 ---
 

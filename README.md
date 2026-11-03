@@ -30,9 +30,9 @@ I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raip
 
 <div align="center">
 
-| 1. Backend Development & Databases | 2. Applied AI & Rule-Based Evaluation | 3. Document Integrity & Blockchain Concepts | 4. Algorithms & C++ Practice |
+| Programming Foundations & DSA | Web Development | Databases & Backend | Applied AI & Projects |
 |:---|:---|:---|:---|
-| • Java 17 + Spring Boot 3<br/>• Spring Security 6 & JWT<br/>• Relational Schema Design (MySQL)<br/>• Layered access control & IDOR protection | • Python 3.12 & FastAPI<br/>• Pydantic v2 data contracts<br/>• Deterministic Python rule engines<br/>• Automated Pytest suites (39 tests) | • Client-side SHA-256 (Web Crypto)<br/>• Solidity smart contracts (`^0.8.28`)<br/>• Local Hardhat test suite (8 tests)<br/>• OCR-based text consistency checks | • Modern C++ (C++17)<br/>• 246 coursework & practice programs<br/>• 34 algorithmic solutions (LeetCode/GFG)<br/>• Graphs, Backtracking, Two-Pointers |
+| • C, C++<br/>• Python<br/>• Data Structures & Algorithms<br/>• LeetCode and GeeksforGeeks | • HTML, CSS<br/>• JavaScript<br/>• PHP<br/>• React, Vite (Basic Exposure) | • MySQL<br/>• ER Diagrams and Normalization<br/>• Java, Spring Boot (Project Exposure)<br/>• Python, FastAPI (Project Exposure) | • Gemini API Integration<br/>• Python-based Rule Engines<br/>• Document Processing<br/>• Blockchain Concepts (Project Exposure) |
 
 </div>
 

@@ -44,10 +44,10 @@ I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raip
 
 | Category | Technologies & Tools |
 |---|---|
-| **Programming Languages** | `C++` &nbsp;•&nbsp; `Java` &nbsp;•&nbsp; `Python` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `C` &nbsp;•&nbsp; `SQL` &nbsp;•&nbsp; `Solidity` |
-| **Backend & Databases** | `Spring Boot 3` &nbsp;•&nbsp; `FastAPI` &nbsp;•&nbsp; `MySQL 8.0` &nbsp;•&nbsp; `Spring Data JPA` &nbsp;•&nbsp; `Pydantic v2` &nbsp;•&nbsp; `Hibernate` |
-| **Frontend & Web** | `React` &nbsp;•&nbsp; `TypeScript` &nbsp;•&nbsp; `Vite` &nbsp;•&nbsp; `HTML5` &nbsp;•&nbsp; `CSS3` &nbsp;•&nbsp; `Vanilla JavaScript` |
-| **Testing & CI/CD** | `Pytest` &nbsp;•&nbsp; `JUnit 5` &nbsp;•&nbsp; `Hardhat` &nbsp;•&nbsp; `GitHub Actions` &nbsp;•&nbsp; `Maven` &nbsp;•&nbsp; `GCC / G++` |
+| Programming Languages | C · C++ · Python · JavaScript · PHP · Java (Basic) · SQL (Basic) |
+| Frontend & Web | HTML5 · CSS3 · Vanilla JavaScript · React (Basic) · Vite (Basic) |
+| Backend & Databases | MySQL 8.0 (Working) · Supabase (Working) · PostgreSQL (Basic) · FastAPI (Basic) · Spring Boot (Basic) · Pydantic (Basic) · Spring Security (Basic) |
+| Developer Tools | Git (Working) · GitHub · VS Code · PowerShell (Working) |
 
 </div>
 

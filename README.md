@@ -15,13 +15,14 @@
 
 ### 👨‍💻 About Me
 
-> **B.Tech Computer Science and Engineering undergraduate interested in software development, backend engineering, applied AI, database design, and algorithmic problem solving.**
+> **Third-semester Computer Science & Engineering undergraduate focusing on core programming foundations, relational databases, data structures, and project-based backend learning.**
 
-I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raipur (CSVTU). I develop academic and independent projects while strengthening my programming and engineering fundamentals, with a focus on:
-- **Backend Development & REST APIs:** Implementing layered services and data access in Java 17 / Spring Boot 3 and Python / FastAPI.
-- **Applied AI & Rule-Based Systems:** Decoupling document requirement extraction using Google Gemini from deterministic business logic evaluated through Python rule engines and Pydantic schemas.
-- **Database Design & Relational Modeling:** Designing 3NF relational schemas, role-based authorization structures, and automated integrity validation scripts in MySQL and Python.
-- **Algorithms & Systems Fundamentals:** Practicing data structures and algorithms in modern C++ through continuous problem-solving on LeetCode and GeeksforGeeks.
+I am a 3rd-Semester B.Tech Computer Science & Engineering student at SSIPMT Raipur (CSVTU). My academic focus and technical learning center on:
+- **Programming Foundations:** Writing structured, reliable code with independent foundations in C, C++, and Python.
+- **Web Development & Databases:** Working knowledge of HTML, CSS, JavaScript, and PHP, alongside practical relational database concepts, ER diagrams, normalization, and SQL querying in MySQL.
+- **Backend Learning Through Projects:** Learning backend fundamentals through academic coursework and independent projects, with basic exposure to Java, Spring Boot, and FastAPI as project technologies rather than established professional expertise.
+- **Data Structures & Algorithms:** Practising algorithmic problem solving in C++ on LeetCode and GeeksforGeeks, alongside structured modular programming exercises covering language mechanics and data structures.
+- **Frontend & Project Exploration:** Basic exposure to React and Vite through UI prototypes, as well as exploring document processing and rule-based validation in project contexts.
 
 ---
 
